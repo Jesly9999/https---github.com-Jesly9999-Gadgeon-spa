@@ -7,6 +7,8 @@ A router solves the issue of having to make requests to the server each time use
 
 To handle the navigation from one view to the next, you use the Angular Router 
 
+This is a simple webpage of a company which implemented using spa.The page contains 4 components home,about,contact,services that navigate through each component. In each page we use some bootstrap class to make the pages more responsive and more appealing.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
 
 ## Development server
